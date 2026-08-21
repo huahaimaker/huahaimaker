@@ -3,9 +3,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/0FlowerOcean0?tab=repositories">全部项目</a>
+  <a href="https://github.com/huahaimaker?tab=repositories">全部项目</a>
   ·
-  <a href="https://github.com/0FlowerOcean0/SkillHub/releases/latest">下载 SkillHub</a>
+  <a href="https://github.com/huahaimaker/SkillHub/releases/latest">下载 SkillHub</a>
   ·
   <a href="https://community.obsidian.md/plugins/bloomtype-publisher">Bloomtype 插件</a>
 </p>
@@ -29,29 +29,29 @@ I build practical, open-source AI tools for agent workflows and Chinese creators
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/0FlowerOcean0/SkillHub">SkillHub</a></h3>
+      <h3><a href="https://github.com/huahaimaker/SkillHub">SkillHub</a></h3>
       <p>把散落在 Claude Code、Codex 等平台的 Agent Skills，收进一个清晰、可信、可逆的本体库。</p>
       <p><code>SwiftUI</code> <code>Tauri</code> <code>Rust</code></p>
       <p>
         <strong>已交付：</strong>macOS Release · Windows Preview<br>
-        <a href="https://github.com/0FlowerOcean0/SkillHub/releases/latest">下载</a> ·
-        <a href="https://github.com/0FlowerOcean0/SkillHub#readme">文档</a>
+        <a href="https://github.com/huahaimaker/SkillHub/releases/latest">下载</a> ·
+        <a href="https://github.com/huahaimaker/SkillHub#readme">文档</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/0FlowerOcean0/herdr-mac">Herdr Native Clients</a></h3>
+      <h3><a href="https://github.com/huahaimaker/herdr-mac">Herdr Native Clients</a></h3>
       <p>让真正的 Herdr TUI 运行在 macOS 与 Windows 原生桌面窗口中，保留 Tabs、Agents 和持久会话。</p>
       <p><code>SwiftUI</code> <code>AppKit</code> <code>WinUI 3</code></p>
       <p>
         <strong>已交付：</strong>macOS Release · Windows Preview<br>
-        <a href="https://github.com/0FlowerOcean0/herdr-mac/releases">下载</a> ·
-        <a href="https://github.com/0FlowerOcean0/herdr-mac#readme">文档</a>
+        <a href="https://github.com/huahaimaker/herdr-mac/releases">下载</a> ·
+        <a href="https://github.com/huahaimaker/herdr-mac#readme">文档</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/0FlowerOcean0/bloomtype-obsidian">Bloomtype Publisher</a></h3>
+      <h3><a href="https://github.com/huahaimaker/bloomtype-obsidian">Bloomtype Publisher</a></h3>
       <p>在 Obsidian 侧栏实时预览公众号排版，并把兼容富文本一键复制到微信公众号编辑器。</p>
       <p><code>TypeScript</code> <code>Obsidian</code> <code>Markdown</code></p>
       <p>
@@ -61,14 +61,14 @@ I build practical, open-source AI tools for agent workflows and Chinese creators
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/0FlowerOcean0/fetchrouter">FetchRouter</a></h3>
+      <h3><a href="https://github.com/huahaimaker/fetchrouter">FetchRouter</a></h3>
       <p>面向 Claude Code 的多 Agent 网页抓取路由器，按站点与登录状态选择抓取策略并自动降级。</p>
       <p><code>Python</code> <code>Multi-Agent</code> <code>Web</code></p>
       <p>
-        <a href="https://github.com/0FlowerOcean0/fetchrouter/stargazers"><img src="https://img.shields.io/github/stars/0FlowerOcean0/fetchrouter?style=flat-square&amp;label=stars" alt="FetchRouter stars"></a>
-        <a href="https://github.com/0FlowerOcean0/fetchrouter/forks"><img src="https://img.shields.io/github/forks/0FlowerOcean0/fetchrouter?style=flat-square&amp;label=forks" alt="FetchRouter forks"></a><br>
-        <a href="https://github.com/0FlowerOcean0/fetchrouter#readme">快速开始</a> ·
-        <a href="https://github.com/0FlowerOcean0/fetchrouter/blob/main/SUPPORTED_SITES.md">支持站点</a>
+        <a href="https://github.com/huahaimaker/fetchrouter/stargazers"><img src="https://img.shields.io/github/stars/huahaimaker/fetchrouter?style=flat-square&amp;label=stars" alt="FetchRouter stars"></a>
+        <a href="https://github.com/huahaimaker/fetchrouter/forks"><img src="https://img.shields.io/github/forks/huahaimaker/fetchrouter?style=flat-square&amp;label=forks" alt="FetchRouter forks"></a><br>
+        <a href="https://github.com/huahaimaker/fetchrouter#readme">快速开始</a> ·
+        <a href="https://github.com/huahaimaker/fetchrouter/blob/main/SUPPORTED_SITES.md">支持站点</a>
       </p>
     </td>
   </tr>
@@ -90,5 +90,5 @@ I build practical, open-source AI tools for agent workflows and Chinese creators
 如果这些项目刚好解决了你的问题，欢迎试用、提交 Issue 或 Pull Request。真实场景中的反馈，比单纯的 star 更有价值。
 
 <p align="center">
-  <a href="https://github.com/0FlowerOcean0?tab=repositories"><strong>探索全部开源项目 →</strong></a>
+  <a href="https://github.com/huahaimaker?tab=repositories"><strong>探索全部开源项目 →</strong></a>
 </p>
