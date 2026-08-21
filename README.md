@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="花海 / FlowerOcean — Practical AI products, open-source tools, and creator workflows">
+  <img src="./assets/profile-hero.png" width="100%" alt="花海 — AI 实战、开源产品与真实行动">
 </p>
 
 <p align="center">
@@ -15,6 +15,8 @@
 我喜欢把 AI 想法做成真正能运行的产品：可以下载、可以验证，也可以被别人继续改造。
 
 I build practical, open-source AI tools for agent workflows and Chinese creators.
+
+📮 **VX：`SeaMinnie`**
 
 - **正在深耕：** AI Agent 工作流、跨平台原生工具、中文创作者的内容生产基础设施
 - **做事标准：** 不止展示 Demo，尽量交付源码、Release、测试、安装路径和明确边界
